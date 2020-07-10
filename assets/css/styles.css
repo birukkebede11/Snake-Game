@@ -1,0 +1,10 @@
+.canvas{
+	background-color: #000;
+	display: none;
+}
+.game-info-wrapper {
+	display: none;
+}
+.visible {
+	display: block;
+}
